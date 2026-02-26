@@ -1,0 +1,59 @@
+# 2SkyMobile - Global Telecom Connectivity Solutions
+
+> 2SkyMobile is a full-stack telecom partner providing eSIM platforms, wholesale mobile data, billing systems, and custom software for MVNOs, resellers, and enterprises. Coverage in 190+ countries.
+
+## Company Overview
+
+2SkyMobile enables telecom businesses worldwide with infrastructure for mobile connectivity, eSIM provisioning, automated billing, and API integrations. Headquartered in Delaware, USA with offices in Lagos, Nigeria and Jakarta, Indonesia.
+
+## Key Pages
+
+- /: Homepage - Full telecom solutions overview
+- /solutions: All connectivity and platform solutions
+- /solutions/wholesale-mobile-data: Multi-IMSI wholesale data across 190+ countries
+- /solutions/white-label-esim: Branded eSIM platform for travel, fintech, MVNOs
+- /solutions/billing-platform: Operator-grade billing and revenue management
+- /solutions/api-integrations: Developer APIs and SDKs
+- /solutions/iot-connectivity: IoT/M2M connectivity solutions
+- /solutions/custom-software: Bespoke telecom software development
+- /company/about: Company mission, vision, and leadership
+- /company/infrastructure: Global network infrastructure details
+- /partners/program: Partner ecosystem and benefits
+- /insights: Latest updates and industry insights
+- /contact: Get in touch with sales and support
+
+## Products & Services
+
+- Wholesale Mobile Data: Multi-IMSI, multi-network coverage in 190+ countries
+- White-Label eSIM Platform: Full white-label solution with custom branding
+- Billing & Revenue Management: Real-time rating, invoicing, multi-currency
+- IoT/M2M Connectivity: Global IoT SIMs with remote management
+- Custom Telecom Software: CRM, portals, network management tools
+- API Integrations & SDKs: RESTful APIs for provisioning, billing, analytics
+
+## Technical Capabilities
+
+- 600+ carrier networks worldwide
+- 99.99% uptime SLA
+- Sub-50ms average latency
+- SOC 2 Type II, ISO 27001, GSMA SAS-SM certified
+- Real-time IMSI switching and intelligent routing
+
+## Target Customers
+
+- MVNOs launching mobile virtual networks
+- Travel companies and OTAs selling eSIM
+- Fintech and digital banks adding connectivity
+- IoT platforms requiring global M2M
+- System integrators building telecom solutions
+
+## Contact
+
+- Website: https://2skymobile.com
+- Sales: sales@2skymobile.com
+- Support: support@2skymobile.com
+- Locations: Delaware (HQ), Lagos, Jakarta
+
+## For More Information
+
+See /llms-full.txt for extended content including latest news summaries.

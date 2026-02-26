@@ -1,0 +1,171 @@
+# 2SkyMobile - Complete AI Context Document
+
+> 2SkyMobile is a full-stack telecom partner providing eSIM platforms, wholesale mobile data, billing systems, and custom software for MVNOs, resellers, and enterprises. Coverage in 190+ countries with 600+ carrier networks.
+
+## Company Overview
+
+2SkyMobile enables telecom businesses worldwide with infrastructure for mobile connectivity, eSIM provisioning, automated billing, and API integrations. 
+
+**Mission**: To democratize global connectivity by providing businesses of all sizes with enterprise-grade telecom infrastructure, enabling them to launch and scale mobile services without the complexity of traditional carrier relationships.
+
+**Vision**: To become the global standard for telecom-as-a-service, where any business can seamlessly integrate mobile connectivity into their products.
+
+**Headquarters**: Delaware, United States
+**Regional Offices**: Lagos (Nigeria), Jakarta (Indonesia)
+
+## Complete Solution Portfolio
+
+### 1. Wholesale Mobile Data
+Multi-IMSI, multi-network mobile data coverage in 190+ countries. Features include:
+- Dynamic SIM profile management
+- Real-time IMSI switching across 600+ carrier networks
+- Competitive wholesale rates
+- Enterprise-grade reliability with 99.99% uptime
+
+### 2. White-Label eSIM Platform
+Launch your branded eSIM business in weeks:
+- Custom branding and white-label store
+- Automated eSIM provisioning
+- Web and mobile applications
+- API for full automation
+- Marketing tools included
+
+### 3. Billing Platform
+Operator-grade billing and revenue management:
+- Real-time rating engine
+- Flexible pricing models
+- Automated invoicing
+- Multi-currency settlement
+- Financial analytics and reporting
+
+### 4. IoT Connectivity
+Global IoT and M2M connectivity solutions:
+- Multi-network SIMs
+- Remote SIM management
+- Scalable infrastructure
+- Low-power network support
+
+### 5. Custom Software Development
+Bespoke telecom software:
+- CRM systems
+- Customer portals
+- Network management tools
+- Operational dashboards
+
+### 6. API Integrations
+Developer-first approach:
+- RESTful APIs for all services
+- Comprehensive documentation
+- SDKs for major platforms
+- Webhooks and automation tools
+- Sandbox environment for testing
+
+## Technical Infrastructure
+
+### Platform Architecture
+- **Application Layer**: Customer Portal, Partner Dashboard, API Gateway, Admin Console
+- **Service Layer**: Provisioning Engine, Rating & Billing, Analytics Engine, Notification Service
+- **Core Network**: Multi-IMSI HLR/HSS, SMSC/MMSC, Diameter/SS7 Gateway, Packet Gateway
+- **Infrastructure**: Global PoPs, Redundant Data Centers, IPX Interconnects, Carrier Peering
+
+### Key Metrics
+- 600+ carrier networks
+- <50ms average latency
+- 99.99% uptime SLA
+- 190+ countries covered
+
+### Security & Compliance
+- SOC 2 Type II certified
+- GSMA SAS-SM certified eSIM platform
+- ISO 27001 compliant operations
+- PCI DSS Level 1 for payments
+- GDPR and CCPA compliant
+- Private APN with IPsec/IKEv2
+- End-to-end TLS 1.3 encryption
+
+## Partner Program
+
+### MVNO Partners
+For companies launching digital connectivity products:
+- Multi-IMSI access
+- Turnkey technical node
+- Billing & settlements
+- Dedicated account manager
+
+### Resellers & eSIM Stores
+For travel companies, OTAs, fintech, digital brands:
+- Best wholesale pricing
+- White-label store (web + mobile)
+- API for automation
+- Marketing tools
+
+### Technology Integrators
+For developers and agencies:
+- API-first access
+- Webhooks & automation
+- Sandbox environment
+- Integration commissions
+
+## Website Sitemap
+
+### Main Pages
+- / - Homepage
+- /solutions - Solutions overview
+- /contact - Contact sales and support
+
+### Solutions
+- /solutions/wholesale-mobile-data
+- /solutions/white-label-esim
+- /solutions/billing-platform
+- /solutions/iot-connectivity
+- /solutions/custom-software
+- /solutions/api-integrations
+
+### Company
+- /company/about
+- /company/infrastructure
+- /company/corporate-structure
+- /company/careers
+
+### Partners
+- /partners/program
+- /partners/become-partner
+- /partners/for-mvnos
+- /partners/for-resellers
+- /partners/for-integrators
+
+### Resources
+- /resources/documentation
+- /resources/knowledge-base
+- /resources/blog
+- /resources/case-studies
+- /resources/changelog
+- /resources/system-status
+
+### Legal
+- /legal - Legal hub
+- /legal/privacy-policy
+- /legal/terms-of-service
+- /legal/cookies-policy
+- /legal/data-processing-agreement
+- /legal/service-level-agreement
+- /legal/api-acceptable-use
+
+### News
+- /news - News listing
+- /news/[slug] - Individual articles
+
+## Contact Information
+
+- **Website**: https://2skymobile.com
+- **Sales**: sales@2skymobile.com
+- **Support**: support@2skymobile.com
+- **Legal**: legal@2skymobile.com
+- **Compliance**: compliance@2skymobile.com
+
+## Latest News
+
+For dynamically generated news with AI summaries, see:
+https://2skymobile.com/api/llms-txt
+
+This endpoint returns the latest published news articles with their summary_for_llm field, providing AI-optimized summaries of each article.
