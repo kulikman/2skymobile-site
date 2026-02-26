@@ -1,0 +1,3 @@
+[submodule "vendor/skymobile"]
+	path = vendor/skymobile
+	url = https://github.com/kulikman/skymobile.git
